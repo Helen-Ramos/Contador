@@ -1,0 +1,19 @@
+.boxContador{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+    height: 70vh;
+}
+
+button{
+    border-radius: 25px;
+}
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
